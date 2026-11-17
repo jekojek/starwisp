@@ -33,6 +33,7 @@ Or open `game/index.html` from any static file server.
 | WASD / arrow keys | Move |
 | Mouse | Aim (auto-fire light bolts) |
 | Shift / Space | Dash (with cooldown and i-frames) |
+| N | Nova blast (if you hold a nova charge) |
 | 1 / 2 / 3 or click a card | Choose a level-up blessing |
 | P / Esc | Pause |
 | M | Mute |
