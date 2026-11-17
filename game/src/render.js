@@ -470,7 +470,8 @@ export function createRenderer(canvas) {
         `The Night King is banished on wave ${state.wave}!`,
         `${state.kills} creatures banished   •   Best combo ${state.bestCombo}`,
         '',
-        'The forest glows again — and the night is endless if you wish.',
+        'The forest glows again —',
+        'and the night is endless if you wish.',
       ];
       drawPanel('✦  VICTORY  ✦', lines, 'Press Space for endless mode, or R to restart', '#ffd166');
     }
